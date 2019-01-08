@@ -2,7 +2,7 @@
 #ifndef _TEST_LIST_SORT_H_
 #define _TEST_LIST_SORT_H_
 
-#include "../list_sort/list.h"
+#include "list.h"
 
 void
 insert_sort (struct list_head *head, int

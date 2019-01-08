@@ -12,9 +12,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
-#include "../list_sort/list.h"
-#include "../list_sort/list_sort.h"
+#include "list.h"
+#include "list_sort.h"
 
 struct person
 {

@@ -11,7 +11,7 @@
 
  */
 
-#include "../list_sort/list.h"
+#include "list.h"
 
 /* 交换节点 */
 static void
